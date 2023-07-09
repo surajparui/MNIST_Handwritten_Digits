@@ -32,15 +32,7 @@ To use this code, follow these steps:
 6. Evaluate the trained model on the test dataset and measure its accuracy.
 7. Visualize the results and analyze the performance of your model.
 
-## Repository Structure
-
-This repository contains the following files:
-
-- `README.md`: This file provides an overview of the project and instructions on how to use the code.
-- `main.py`: This is the main Python script that contains the code for loading the dataset, defining the model, training, and evaluation.
-- `model.py`: This file contains the definition of the neural network model.
-- `utils.py`: This file includes utility functions for data preprocessing and visualization.
-- `requirements.txt`: This file lists the required Python packages and their versions.
+Please refer to the provided IPython notebook file `MNIST_Handwritten_Digits.ipynb` for the complete code implementation, including step-by-step instructions and code cells.
 
 ## Resources
 
